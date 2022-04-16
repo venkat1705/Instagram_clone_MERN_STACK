@@ -1,0 +1,78 @@
+.post{
+    width: 50%;
+    margin-top:15px;
+    margin-bottom:20px;
+    border-radius: 10px;
+    background-color: white;
+    box-shadow: 0px 5px 8px -9px rgba(0, 0, 0, 0.75);
+    margin: 15px auto;
+}
+.post__image > img{
+    width: 100%;
+}
+.post__top {    
+    display: flex;
+    align-items: center;
+    padding: 15px;
+}
+.post__top > img{
+    width: 40px;
+    height: 40px;
+    border-radius:20px;
+}
+.post__top > i{
+    color: grey;
+}
+.post__info > p{
+    margin-left: 7px;
+}
+.post__info >h3 {
+    font-size: medium;
+    margin-top: 10px;
+    margin-left: 7px;
+}
+.post__info > p{
+    font-size:small;
+    color: grey;
+}
+.post__bottom{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 15px 25px;
+}
+.post__options{
+    padding-top:10px;
+    border-top: 1px solid lightgray;
+    display: flex;
+    justify-content:space-evenly;
+    font-size:medium;
+    color: gray;
+    cursor: pointer;
+    padding: 15px
+}
+.post__option{
+    display: flex;
+    align-items:center;
+    justify-content:center;
+    padding: 5px;
+    flex:1;
+}
+.post__option > p{
+    margin-left: 10px;
+}
+
+.post__image > p{
+    padding: 15px;
+}
+.post__comment > form > input{
+    background-color: #eff2f5;
+    align-items: center;
+    padding: 10px;
+    border-radius: 10px;
+    width: 96%;
+    border: none;
+    outline-width: 0;
+}
+.post__name > h5{
+    text-decoration: none;
+}
