@@ -1,7 +1,7 @@
 # Instagram
 # Login Screen
 ![Screenshot (19)](https://user-images.githubusercontent.com/84761697/163671966-9b154c50-5ae8-4cd7-adc5-ade4e332d0dc.png)
-# Signu Screen
+# Signup Screen
 ![Screenshot (20)](https://user-images.githubusercontent.com/84761697/163671976-e3099b22-ac87-4282-82d2-af89d3cde75a.png)
 # Home Screen
 ![Screenshot (21)](https://user-images.githubusercontent.com/84761697/163671977-0137f943-42d0-41c4-9743-240a6ff32a11.png)
